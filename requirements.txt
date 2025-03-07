@@ -1,0 +1,9 @@
+tensorflow-macos
+numpy~=1.26.4
+pandas~=2.2.2
+fyers-apiv3
+matplotlib~=3.9.2
+fyers_apiv3~=3.1.3
+tensorflow~=2.16.2
+scikit-learn~=1.5.2
+requests~=2.31.0
