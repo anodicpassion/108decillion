@@ -1748,3 +1748,6 @@
 {"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/marketStatus"},"timestamp":"2025-03-07 02:01:28,272+0530","service":"FyersAPIRequest"}
 {"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/marketStatus"},"timestamp":"2025-03-07 02:01:28,722+0530","service":"FyersAPIRequest"}
 {"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/history"},"timestamp":"2025-03-07 02:01:29,991+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":401,"API":"/marketStatus"},"timestamp":"2025-03-11 20:49:02,257+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/marketStatus"},"timestamp":"2025-03-11 20:49:12,834+0530","service":"FyersAPIRequest"}
+{"level":"DEBUG","location":"[get_call:137] fyersModel","message":{"Status Code":200,"API":"/history"},"timestamp":"2025-03-11 20:49:13,873+0530","service":"FyersAPIRequest"}

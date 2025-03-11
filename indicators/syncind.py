@@ -78,3 +78,4 @@ class SyncInd:
                 self.append(candle)
             return True
         return False
+
