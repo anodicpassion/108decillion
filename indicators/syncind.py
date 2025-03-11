@@ -27,6 +27,7 @@ class SyncInd:
         self.__indicators = indicators
 
         self.__data = np.array([], dtype=np.float32)
+
         # self.indicator = _Ind(self.__data, sma_length)
         # self.__sma5 = SMA(5)
         # self.__sma15 = SMA(15)
@@ -78,4 +79,3 @@ class SyncInd:
                 self.append(candle)
             return True
         return False
-
